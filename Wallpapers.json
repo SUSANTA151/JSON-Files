@@ -1,20 +1,50 @@
 [
 	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"name": "Wallpaper1",
+		"url": "https://drive.google.com/uc?export=download&id=1N4C_1u014olYYlfBFdGT_fMIrxF69j9s",
 		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": ""
 	},
 	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
+		"name": "Wallpaper2",
+		"url": "https://drive.google.com/uc?export=download&id=1CtwFP3sY9dZhhpiRhrQ_Yv-8Y-iy9jMh",
+		"downloadable": true,
+		"copyright": ""
+	},
+	{
+		"name": "Wallpaper3",
+		"url": "https://drive.google.com/uc?export=download&id=1arJ8d7Mi34M6ttlNS9IXwLz4LclAqfaU",
+		"downloadable": true,
+		"copyright": ""
+	},
+	{
+		"name": "Wallpaper4",
+		"url": "https://drive.google.com/uc?export=download&id=1ZLoNJqxVu-bVfmPgsXqCZcOwZ6cKU8yZ",
+		"downloadable": true,
+		"copyright": ""
+	},
+	{
+		"name": "Wallpaper5",
+		"url": "https://drive.google.com/uc?export=download&id=1TtZbjaGMzp88l0O7-PVQtDiSrRq-uHmf",
+		"downloadable": true,
+		"copyright": ""
+	},
+	{
+		"name": "Wallpaper6",
+		"url": "https://drive.google.com/uc?export=download&id=1hdbPzq8nAKQ8Wokfic291aDVk49iReNi",
+		"downloadable": true,
+		"copyright": ""
+	},
+	{
+		"name": "Wallpaper7",
+		"url": "https://drive.google.com/uc?export=download&id=1yAyPUH01l9NAgR2Y0r6T0OuTEx08ci3D",
+		"downloadable": true,
+		"copyright": ""
+	},
+	{
+		"name": "Wallpaper8",
+		"url": "https://drive.google.com/uc?export=download&id=1dqGnFBQrf8fVKoxGbxztfI1HaAu8X4jh",
+		"downloadable": true,
+		"copyright": ""
+	},
 ]
