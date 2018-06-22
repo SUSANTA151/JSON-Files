@@ -1,4 +1,5 @@
-[
+{
+	"Wallpapers": [
 	{
 		"name": "Wallpaper1",
 		"url": "https://drive.google.com/uc?export=download&id=1N4C_1u014olYYlfBFdGT_fMIrxF69j9s",
@@ -89,4 +90,5 @@
 		"downloadable": true,
 		"copyright": ""
 	}
-]
+     ]
+}
