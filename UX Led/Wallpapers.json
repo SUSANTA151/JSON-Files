@@ -8,6 +8,33 @@
 		"size": 5851054,
 		"dimensions": "3395 x 5092 px",
 		"copyright": "Unsplash"
+	},
+		{
+		"name": "Wallpaper2",
+		"url": "https://drive.google.com/uc?export=download&id=1gDMOnO3Bd2QrbP4DCEpXYDne7BFxDWJ1",
+		"author": "Paweł Czerwiński",
+		"downloadable": true,
+		"size": 2097152,
+		"dimensions": "4000 x 6000 px",
+		"copyright": "Unsplash"
+	},
+		{
+		"name": "Wallpaper3",
+		"url": "https://drive.google.com/uc?export=download&id=1QZbTL-zQhQyQks6CtGTPhNmpUGtkto_x",
+		"author": "Thomas Charters",
+		"downloadable": true,
+		"size": 10485760,
+		"dimensions": "4912 x 7360 px",
+		"copyright": "Unsplash"
+	},
+		{
+		"name": "Wallpaper4",
+		"url": "https://drive.google.com/uc?export=download&id=1PfwcidRe7PMYV-IEco1lB7BoakNPr1k6",
+		"author": "Jaunt and Joy",
+		"downloadable": true,
+		"size": 5242880,
+		"dimensions": "3688 x 5532 px",
+		"copyright": "Unsplash"
 	}
      ]
 }
