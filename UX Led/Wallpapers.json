@@ -3,6 +3,7 @@
 	{
 		"name": "Wallpaper1",
 		"url": "https://drive.google.com/uc?export=download&id=1N53zRqJhQR0XHB5YCqkFz5NFuUtuvtSp",
+		"url-thumb": "https://drive.google.com/uc?export=download&id=1BvdjrkL0Z0Dhg2y3iwELSFIlB3ip5oGH",
 		"author": "Ronaldo de Oliveira",
 		"downloadable": true,
 		"size": 5851054,
@@ -12,6 +13,7 @@
 		{
 		"name": "Wallpaper2",
 		"url": "https://drive.google.com/uc?export=download&id=1gDMOnO3Bd2QrbP4DCEpXYDne7BFxDWJ1",
+	        "url-thumb": "https://drive.google.com/uc?export=download&id=1qS1Ie40HWN9tGNRTHZSYJMV1w5T3n08N",
 		"author": "Paweł Czerwiński",
 		"downloadable": true,
 		"size": 2097152,
@@ -21,6 +23,7 @@
 		{
 		"name": "Wallpaper3",
 		"url": "https://drive.google.com/uc?export=download&id=1QZbTL-zQhQyQks6CtGTPhNmpUGtkto_x",
+		"url-thumb": "https://drive.google.com/uc?export=download&id=1N_xReG_jz12gEfLMpOkIcyRyE1Tbvukg",
 		"author": "Thomas Charters",
 		"downloadable": true,
 		"size": 10485760,
@@ -30,6 +33,7 @@
 		{
 		"name": "Wallpaper4",
 		"url": "https://drive.google.com/uc?export=download&id=1PfwcidRe7PMYV-IEco1lB7BoakNPr1k6",
+		"url-thumb": "https://drive.google.com/uc?export=download&id=1r0RkOpE3cIuPbKs27LKyAdVRQCevvy4m",
 		"author": "Jaunt and Joy",
 		"downloadable": true,
 		"size": 5242880,
