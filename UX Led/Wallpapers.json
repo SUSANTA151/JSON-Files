@@ -2,18 +2,16 @@
 	"Wallpapers": [
 	{
 		"name": "Wallpaper1",
-		"url": "https://drive.google.com/uc?export=download&id=1N53zRqJhQR0XHB5YCqkFz5NFuUtuvtSp",
-		"url-thumb": "https://drive.google.com/uc?export=download&id=1BvdjrkL0Z0Dhg2y3iwELSFIlB3ip5oGH",
-		"author": "Ronaldo de Oliveira",
+		"url": "https://drive.google.com/uc?export=download&id=1I7AQbv2CoyQDyggn9tXPVqWmYUB5imE2",
+		"author": "Malte Schmidt",
 		"downloadable": true,
-		"size": 5851054,
-		"dimensions": "3395 x 5092 px",
+		"size": 2097152,
+		"dimensions": "4000 x 6000 px",
 		"copyright": "Unsplash"
 	},
 		{
 		"name": "Wallpaper2",
 		"url": "https://drive.google.com/uc?export=download&id=1gDMOnO3Bd2QrbP4DCEpXYDne7BFxDWJ1",
-	        "url-thumb": "https://drive.google.com/uc?export=download&id=1qS1Ie40HWN9tGNRTHZSYJMV1w5T3n08N",
 		"author": "Paweł Czerwiński",
 		"downloadable": true,
 		"size": 2097152,
@@ -22,23 +20,81 @@
 	},
 		{
 		"name": "Wallpaper3",
-		"url": "https://drive.google.com/uc?export=download&id=1QZbTL-zQhQyQks6CtGTPhNmpUGtkto_x",
-		"url-thumb": "https://drive.google.com/uc?export=download&id=1N_xReG_jz12gEfLMpOkIcyRyE1Tbvukg",
+		"url": "https://drive.google.com/uc?export=download&id=1cyXqVSkhjZlxyxFC-wsgSlAmJNZAxCDD",
 		"author": "Thomas Charters",
 		"downloadable": true,
-		"size": 10485760,
-		"dimensions": "4912 x 7360 px",
+		"size": 1992294,
+		"dimensions": "3004 x 4500 px",
 		"copyright": "Unsplash"
 	},
 		{
 		"name": "Wallpaper4",
-		"url": "https://drive.google.com/uc?export=download&id=1PfwcidRe7PMYV-IEco1lB7BoakNPr1k6",
-		"url-thumb": "https://drive.google.com/uc?export=download&id=1r0RkOpE3cIuPbKs27LKyAdVRQCevvy4m",
+		"url": "https://drive.google.com/uc?export=download&id=1ZTTHMZGRb_M20_lPRlxyeKZmIAdzpv9E",
 		"author": "Jaunt and Joy",
 		"downloadable": true,
-		"size": 5242880,
-		"dimensions": "3688 x 5532 px",
+		"size": 2097152,
+		"dimensions": "3667 x 5500 px",
 		"copyright": "Unsplash"
+	},
+		{
+		"name": "Wallpaper5",
+		"url": "https://drive.google.com/uc?export=download&id=17H9QHZ0lGYIDEx6FNp3POGNerGRRKyZv",
+		"author": "Gauravdeep Singh Bansal",
+		"downloadable": true,
+		"size": 707584,
+		"dimensions": "4000 x 6000 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper6",
+		"url": "https://drive.google.com/uc?export=download&id=1Fuy6mwxSS2uu_isXC5qWta8MT_ypYzNk",
+		"author": "Malte Schmidt",
+		"downloadable": true,
+		"size": 2097152,
+		"dimensions": "4000 x 6000 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper7",
+		"url": "https://drive.google.com/uc?export=download&id=13PmJOehqVHk5ZjrEjsUffyWCxlmiwk5x",
+		"author": "Mado El Khouly",
+		"downloadable": true,
+		"size": 2097152,
+		"dimensions": "4000 x 5000 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper8",
+		"url": "https://drive.google.com/uc?export=download&id=1l0hINhjeowyu3u2pMLe5BtzlCKVRllG3",
+		"author": "Octavio Fossatti",
+		"downloadable": true,
+		"size": 508928,
+		"dimensions": "1840 x 2925 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper9",
+		"url": "https://drive.google.com/uc?export=download&id=1eTcTxsG1K5hqaIo0JXg0Z0-xXXxwMcMB",
+		"author": "Stephen Walker",
+		"downloadable": true,
+		"size": 818176,
+		"dimensions": "2096 x 3203 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper10",
+		"url": "https://drive.google.com/uc?export=download&id=1WGSXoh54X42jMgvA_EqVJJGYEeBJr8vr",
+		"author": "Ronaldo de Oliveira",
+		"downloadable": true,
+		"size": 2097000,
+		"dimensions": "3395 x 5092 px",
+		"copyright": "Unsplash"
+			
 	}
      ]
 }
