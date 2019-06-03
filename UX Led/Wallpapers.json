@@ -2,11 +2,11 @@
 	"Wallpapers": [
 	{
 		"name": "Wallpaper1",
-		"url": "https://drive.google.com/uc?export=download&id=1I7AQbv2CoyQDyggn9tXPVqWmYUB5imE2",
-		"author": "Malte Schmidt",
+		"url": "https://drive.google.com/uc?export=download&id=198fi9h-SKilA3YU99TvqcgwQlXNqN3u4",
+		"author": "Bogdan Kupriets",
 		"downloadable": true,
-		"size": 2097152,
-		"dimensions": "4000 x 6000 px",
+		"size": 440320,
+		"dimensions": "2920 x 3893 px",
 		"copyright": "Unsplash"
 	},
 		{
@@ -93,6 +93,26 @@
 		"downloadable": true,
 		"size": 2097000,
 		"dimensions": "3395 x 5092 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper11",
+		"url": "https://drive.google.com/uc?export=download&id=1Pnkmw__6F0ulu4TzqQmyUa6VfyawLyvH",
+		"author": "Jon Tyson",
+		"downloadable": true,
+		"size": 2097152,
+		"dimensions": "3024 x 4032 px",
+		"copyright": "Unsplash"
+			
+	},
+		{
+		"name": "Wallpaper12",
+		"url": "https://drive.google.com/uc?export=download&id=1ymbodpLPrhpsDUgndQUwXuvBQV38O-kb",
+		"author": "Tobias van Schneider",
+		"downloadable": true,
+		"size": 635904,
+		"dimensions": "2545 x 3264 px",
 		"copyright": "Unsplash"
 			
 	}
