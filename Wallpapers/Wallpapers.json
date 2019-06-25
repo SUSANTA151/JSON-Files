@@ -1,9 +1,29 @@
 {
   "Collections": [
     {
-      "name": "Recent",
+      "name": "Arecent",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "Landscapes",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    {
+      "name": "People",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
   "Wallpapers": [
@@ -36,7 +56,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city,recent",
+      "collections": "featured,landscapes,people,city,arecent",
       "featured": true
     },
     {
@@ -91,7 +111,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,recent"
+      "collections": "landscapes,people,arecent"
     },
     {
       "name": "Wallsplash 8",
@@ -100,7 +120,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "food,recent"
+      "collections": "food,arecent"
     }
   ]
 }
