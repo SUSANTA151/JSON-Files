@@ -25,7 +25,7 @@
     {
       "name": "ShotA",
       "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "url": "",
       "collections": "featured,landscapes,people"
     },
     {
@@ -118,13 +118,14 @@
       "collections": "food"
     },
     {
-      "name": "Webp Image",
-      "author": "unknown",
-      "url": "https://www.gstatic.com/webp/gallery/4.webp",
-      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-      "dimensions": "3200x2560",
-      "copyright": "Unknown",
-      "collections": "landscapes"
+      "name": "Image 1",
+      "author": "Elizabeth Gottwald",
+      "url": "https://drive.google.com/uc?export=download&id=1KOLTSlV5D-r166wf6qIcpyN_SPPwegur",
+      "thumbnail": "",
+      "dimensions": "‪5184x3456‬",
+      "size": 3145728,
+      "copyright": "Unsplash",
+      "collections": "landscapes,birds,nature"
     }
   ]
 }
