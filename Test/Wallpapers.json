@@ -2,130 +2,351 @@
   "Collections": [
     {
       "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+      "preview_url": "",
+      "preview_thumbnail_url": ""
+    },
+    {
+      "name": "Birds",
+      "preview_url": "",
+      "preview_thumbnail_url": ""
+    },
+    {
+      "name": "Nature",
+      "preview_url": "",
+      "preview_thumbnail_url": ""
     },
     {
       "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+      "preview_url": "",
+      "preview_thumbnail_url": ""
     },
     {
       "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+      "preview_url": "",
+      "preview_thumbnail_url": ""
     }
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "",
-      "collections": "featured,landscapes,people"
-    },
-    {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
-    },
-    {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
-    },
-    {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city",
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
       "featured": true
     },
     {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Wallsplash 4",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
     },
     {
-      "name": "Image 1",
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper ",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper 4",
+      "author": "ZQ Lee",
+      "url": "https://drive.google.com/uc?export=download&id=12oMajnPqtMQMER-JhigU0fCEHXHnPKMS",
+      "thumbnail": "",
+      "dimensions": "3200x2133",
+      "size": 1405091,
+      "copyright": "Unsplash",
+      "collections": "city,landscapes"
+    },
+    {
+      "name": "Wallpaper 3",
+      "author": "OC Gonzalez",
+      "url": "https://drive.google.com/uc?export=download&id=19s7CwzFGb41VlqcDIenxIPbTynt4n85Y",
+      "thumbnail": "",
+      "dimensions": "4000x6000‬",
+      "size": 2537553,
+      "copyright": "Unsplash",
+      "collections": "nature"
+    },
+    {
+      "name": "Wallpaper 2",
+      "author": "Naail Hussain",
+      "url": "https://drive.google.com/uc?export=download&id=1x43kPoxFINg4zKNqp14kYGrhm9iOIctn",
+      "thumbnail": "",
+      "dimensions": "2272x4048‬",
+      "size": 1918894,
+      "copyright": "Unsplash",
+      "collections": "nature"
+    },
+    {
+      "name": "Wallpaper 1",
       "author": "Elizabeth Gottwald",
       "url": "https://drive.google.com/uc?export=download&id=1KOLTSlV5D-r166wf6qIcpyN_SPPwegur",
       "thumbnail": "",
       "dimensions": "‪5184x3456‬",
-      "size": 3145728,
+      "size": 3649044,
       "copyright": "Unsplash",
-      "collections": "landscapes,birds,nature"
+      "collections": "landscapes,birds"
     }
   ]
 }
