@@ -1,11 +1,6 @@
 {
   "Collections": [
     {
-      "name": "Arecent",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-    },
-    {
       "name": "Landscapes",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
@@ -26,7 +21,7 @@
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
     }
   ],
-   "Wallpapers": [
+  "Wallpapers": [
     {
       "name": "ShotA",
       "author": "Someone",
@@ -56,7 +51,8 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city,arecent",
+      "collections": "featured,landscapes,people,city",
+      "featured": true
     },
     {
       "name": "Wallsplash 2",
@@ -110,7 +106,7 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,arecent"
+      "collections": "landscapes,people"
     },
     {
       "name": "Wallsplash 8",
@@ -119,7 +115,16 @@
       "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
       "dimensions": "3200x2560",
       "copyright": "Free (do whatever you want)",
-      "collections": "food,arecent"
+      "collections": "food"
+    },
+    {
+      "name": "Webp Image",
+      "author": "unknown",
+      "url": "https://www.gstatic.com/webp/gallery/4.webp",
+      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+      "dimensions": "3200x2560",
+      "copyright": "Unknown",
+      "collections": "landscapes"
     }
   ]
 }
