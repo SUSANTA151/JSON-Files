@@ -21,7 +21,12 @@
       "preview_thumbnail_url": ""
     },
     {
-      "name": "Food",
+      "name": "Textures",
+      "preview_url": "",
+      "preview_thumbnail_url": ""
+    },
+    {
+      "name": "Minimal",
       "preview_url": "",
       "preview_thumbnail_url": ""
     }
@@ -36,7 +41,7 @@
       "size": ,
       "copyright": "Unsplash",
       "collections": ""
-      "featured": true
+      "featured": false
     },
     {
       "name": "Wallpaper ",
@@ -239,69 +244,69 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
-      "author": "",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "name": "Wallpaper 11",
+      "author": "Ann H",
+      "url": "https://drive.google.com/uc?export=download&id=176f406nNErPAqQUXQoquGJmqx7W1K4nS",
       "thumbnail": "",
-      "dimensions": "x",
-      "size": ,
-      "copyright": "Unsplash",
-      "collections": ""
+      "dimensions": "4000x6000",
+      "size": 2474639,
+      "copyright": "Pexels",
+      "collections": "minimal"
     },
     {
-      "name": "Wallpaper ",
-      "author": "",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "name": "Wallpaper 10",
+      "author": "Steve Johnson",
+      "url": "https://drive.google.com/uc?export=download&id=15_aDc67rrGNCHMb7WSCnytEuQSIj4PLd",
       "thumbnail": "",
-      "dimensions": "x",
-      "size": ,
-      "copyright": "Unsplash",
-      "collections": ""
+      "dimensions": "3850x2997",
+      "size": 3219128,
+      "copyright": "Pexels",
+      "collections": "textures,landscapes"
     },
     {
-      "name": "Wallpaper ",
-      "author": "",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "name": "Wallpaper 9",
+      "author": "Paweł Czerwiński",
+      "url": "https://drive.google.com/uc?export=download&id=1nr27bK58T9GRQS-eU4Izkl0eHYF57tN3",
       "thumbnail": "",
-      "dimensions": "x",
-      "size": ,
+      "dimensions": "4000x6000",
+      "size": 5368709,
       "copyright": "Unsplash",
-      "collections": ""
+      "collections": "textures"
     },
     {
-      "name": "Wallpaper ",
-      "author": "",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "name": "Wallpaper 8",
+      "author": "Paweł Czerwiński",
+      "url": "https://drive.google.com/uc?export=download&id=1p2EnFVtw9coxUnwFqMHK5xwNJkrdtSkm",
       "thumbnail": "",
-      "dimensions": "x",
-      "size": ,
+      "dimensions": "4000x6000",
+      "size": 2915041,
       "copyright": "Unsplash",
-      "collections": ""
+      "collections": "textures"
     },
     {
-      "name": "Wallpaper ",
-      "author": "",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "name": "Wallpaper 7",
+      "author": "Lerone Pieters",
+      "url": "https://drive.google.com/uc?export=download&id=13-hVcDPGVf2pTNe-kfx7itjhu4RTbhNx",
       "thumbnail": "",
-      "dimensions": "x",
-      "size": ,
+      "dimensions": "4000x6000",
+      "size": 4026531,
       "copyright": "Unsplash",
-      "collections": ""
+      "collections": "city"
     },
     {
-      "name": "Wallpaper ",
-      "author": "",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "name": "Wallpaper 6",
+      "author": "Pavel Brodsky",
+      "url": "https://drive.google.com/uc?export=download&id=12ORiDaZOP85JAncOpqhRZPY8YtQ4_qOU",
       "thumbnail": "",
-      "dimensions": "x",
-      "size": ,
+      "dimensions": "6000x4000",
+      "size": 5421137,
       "copyright": "Unsplash",
-      "collections": ""
+      "collections": "nature,landscapes"
     },
     {
       "name": "Wallpaper 5",
       "author": "Travis Blessing",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "url": "https://drive.google.com/uc?export=download&id=172kav2ZPLxiza2z5AK7HEQ_nh28VK88h",
       "thumbnail": "",
       "dimensions": "4000x2667",
       "size": 566272,
