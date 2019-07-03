@@ -1,39 +1,7 @@
 {
-  "Collections": [
-    {
-      "name": "Landscapes",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    },
-    {
-      "name": "Birds",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    },
-    {
-      "name": "Nature",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    },
-    {
-      "name": "City",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    },
-    {
-      "name": "Textures",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    },
-    {
-      "name": "Minimal",
-      "preview_url": "",
-      "preview_thumbnail_url": ""
-    }
-  ],
   "Wallpapers": [
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -44,7 +12,7 @@
       "featured": false
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -54,7 +22,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -64,7 +42,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -74,7 +62,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -84,7 +82,7 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -94,7 +92,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -104,7 +112,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -114,7 +132,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -124,7 +152,7 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -134,7 +162,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -144,7 +182,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -154,7 +202,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -164,7 +222,7 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -174,7 +232,17 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper ",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
       "author": "",
       "url": "https://drive.google.com/uc?export=download&id=",
       "thumbnail": "",
@@ -184,9 +252,269 @@
       "collections": ""
     },
     {
-      "name": "Wallpaper 17",
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": ""
+    },
+    {
+      "name": "Wallpaper",
+      "author": "",
+      "url": "https://drive.google.com/uc?export=download&id=",
+      "thumbnail": "",
+      "dimensions": "x",
+      "size": ,
+      "copyright": "Unsplash",
+      "collections": "",
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Adam Birkett",
+      "url": "https://drive.google.com/uc?export=download&id=1RMPFYcTfAYXiJwARchrvMQLECirNnjp6",
+      "thumbnail": "",
+      "dimensions": "4000x6000",
+      "size": 1426063,
+      "copyright": "Unsplash",
+      "collections": "amoled"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Tyler Lastovich",
+      "url": "https://drive.google.com/uc?export=download&id=1YUQ8gpMoZLYIQfil2xT0cegFuqDACUB9",
+      "thumbnail": "",
+      "dimensions": "2744x4090",
+      "size": 470016,
+      "copyright": "Pexels",
+      "collections": "amoled",
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Masha Rostovskaya",
+      "url": "https://drive.google.com/uc?export=download&id=1uvtSw8i_gLGACwpyh-gAyYm-7N4NOA0z",
+      "thumbnail": "",
+      "dimensions": "3002x4003",
+      "size": 416768,
+      "copyright": "Unsplash",
+      "collections": "amoled"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Josh Hild",
+      "url": "https://drive.google.com/uc?export=download&id=1gVbqGK0jc0bybUX2nc0TWUm7QOGyyigi",
+      "thumbnail": "",
+      "dimensions": "3449x5173",
+      "size": 2684354,
+      "copyright": "Pexels",
+      "collections": "night"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "DavidRockDesign",
+      "url": "https://drive.google.com/uc?export=download&id=1sI9w3__ur2Jliab2ngdLIz_lFnLGLxeF",
+      "thumbnail": "",
+      "dimensions": "1920x1078",
+      "size": 655360,
+      "copyright": "Pixabay",
+      "collections": "textures"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Scott Webb",
+      "url": "https://drive.google.com/uc?export=download&id=1BJFC7ATTfQf0ADTwtt0kURtQEUpPC9UY",
+      "thumbnail": "",
+      "dimensions": "6000x4000",
+      "size": 4078960,
+      "copyright": "Pexels",
+      "collections": "textures,landscapes"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Ben Neale",
+      "url": "https://drive.google.com/uc?export=download&id=11OxIWEapLtHsZFXqVpyRfXWofOmwB1Ty",
+      "thumbnail": "",
+      "dimensions": "3294x4940",
+      "size": 2464153,
+      "copyright": "Unsplash",
+      "collections": "textures"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Alvaro Pinot",
+      "url": "https://drive.google.com/uc?export=download&id=1ITmM3Bo-Oio5YFOeobCKIPNHjvaJHTb_",
+      "thumbnail": "",
+      "dimensions": "3024x4032",
+      "size": 1751121,
+      "copyright": "Unsplash",
+      "collections": "textures"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Yeshi Kangrang",
+      "url": "https://drive.google.com/uc?export=download&id=1-juJL2NXjgHPrl4EWsAiho_wswTByZeR",
+      "thumbnail": "",
+      "dimensions": "4000x5000",
+      "size": 2191523,
+      "copyright": "Unsplash",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Max Bender",
+      "url": "https://drive.google.com/uc?export=download&id=1BXlYPB3XtOSVhFdh55c9xllkrgRSdesy",
+      "thumbnail": "",
+      "dimensions": "4912x6144",
+      "size": 4288675,
+      "copyright": "Unsplash",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Cameron Casey",
+      "url": "https://drive.google.com/uc?export=download&id=1KMrubV2V0HG5uPqGby3JzdqWiWodsGvN",
+      "thumbnail": "",
+      "dimensions": "4000x6000",
+      "size": 3649044,
+      "copyright": "Pexels",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Cameron Casey",
+      "url": "https://drive.google.com/uc?export=download&id=1yY9c3xj2xg0N8cN3p2mEjysl-80I3jSM",
+      "thumbnail": "",
+      "dimensions": "3923x5884",
+      "size": 4204789,
+      "copyright": "Pexels",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "João Jesus",
+      "url": "https://drive.google.com/uc?export=download&id=1Fzbu_ke1aDC7FaPwQ3FFGJM8VTVGiGwu",
+      "thumbnail": "",
+      "dimensions": "3456x5184",
+      "size": 4624220,
+      "copyright": "Pexels",
+      "collections": "minimal"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Samuel Zeller",
+      "url": "https://drive.google.com/uc?export=download&id=1uTHn0fn_debt7LADgGrtpv_ndiFuQWqM",
+      "thumbnail": "",
+      "dimensions": "3161x4742",
+      "size": 2474639,
+      "copyright": "Unsplash",
+      "collections": "minimal"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Ruslan Bardash",
+      "url": "https://drive.google.com/uc?export=download&id=1yAbK9Nhcmut_dtofViUBC93uh5Fpbb-m",
+      "thumbnail": "",
+      "dimensions": "5304x7952",
+      "size": 7906263,
+      "copyright": "Unsplash",
+      "collections": "minimal"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Cody Davis",
+      "url": "https://drive.google.com/uc?export=download&id=1sfNsUTlSS9O40xtrEhZolPqp7yvh8d1m",
+      "thumbnail": "",
+      "dimensions": "5184x3456",
+      "size": 1835008,
+      "copyright": "Unsplash",
+      "collections": "minimal"
+    },
+    {
+      "name": "Wallpaper",
       "author": "Oleg Magni",
-      "url": "https://drive.google.com/uc?export=download&id=",
+      "url": "https://drive.google.com/uc?export=download&id=1RlYGMjp4-T77jeqPB0CUN1DIt0iCxIQ6",
       "thumbnail": "",
       "dimensions": "3024x4032",
       "size": 2202009,
@@ -194,7 +522,7 @@
       "collections": "minimal"
     },
     {
-      "name": "Wallpaper 16",
+      "name": "Wallpaper",
       "author": "Soloman Soh",
       "url": "https://drive.google.com/uc?export=download&id=18876s6MYRa2JycUJ0VwgS5omzHP6bTRN",
       "thumbnail": "",
@@ -204,7 +532,7 @@
       "collections": "minimal"
     },
     {
-      "name": "Wallpaper 15",
+      "name": "Wallpaper",
       "author": "Mohamed Hassan",
       "url": "https://drive.google.com/uc?export=download&id=1zUwxHZ1T7E6XsI2kMYhpg5-FvAJGC0sm",
       "thumbnail": "",
@@ -214,7 +542,7 @@
       "collections": "minimal,landscapes"
     },
     {
-      "name": "Wallpaper 14",
+      "name": "Wallpaper",
       "author": "PlushDesignStudio",
       "url": "https://drive.google.com/uc?export=download&id=1kUuPbZ8OQnUZf4R5dALFOjvOFhVsustg",
       "thumbnail": "",
@@ -224,7 +552,7 @@
       "collections": "minimal"
     },
     {
-      "name": "Wallpaper 13",
+      "name": "Wallpaper",
       "author": "OmeWillem",
       "url": "https://drive.google.com/uc?export=download&id=1TUtnIC9-fcEs8rBJk4lTnIl1jWn96v04",
       "thumbnail": "",
@@ -234,7 +562,7 @@
       "collections": "minimal"
     },
     {
-      "name": "Wallpaper 12",
+      "name": "Wallpaper",
       "author": "Pixabay",
       "url": "https://drive.google.com/uc?export=download&id=1gEw3qk8McFm_X1-0dL-utuCkKSeyJl1o",
       "thumbnail": "",
@@ -244,7 +572,7 @@
       "collections": "minimal,landscapes"
     },
     {
-      "name": "Wallpaper 11",
+      "name": "Wallpaper",
       "author": "Ann H",
       "url": "https://drive.google.com/uc?export=download&id=176f406nNErPAqQUXQoquGJmqx7W1K4nS",
       "thumbnail": "",
@@ -254,7 +582,7 @@
       "collections": "minimal"
     },
     {
-      "name": "Wallpaper 10",
+      "name": "Wallpaper",
       "author": "Steve Johnson",
       "url": "https://drive.google.com/uc?export=download&id=15_aDc67rrGNCHMb7WSCnytEuQSIj4PLd",
       "thumbnail": "",
@@ -264,7 +592,7 @@
       "collections": "textures,landscapes"
     },
     {
-      "name": "Wallpaper 9",
+      "name": "Wallpaper",
       "author": "Paweł Czerwiński",
       "url": "https://drive.google.com/uc?export=download&id=1nr27bK58T9GRQS-eU4Izkl0eHYF57tN3",
       "thumbnail": "",
@@ -274,7 +602,7 @@
       "collections": "textures"
     },
     {
-      "name": "Wallpaper 8",
+      "name": "Wallpaper",
       "author": "Paweł Czerwiński",
       "url": "https://drive.google.com/uc?export=download&id=1p2EnFVtw9coxUnwFqMHK5xwNJkrdtSkm",
       "thumbnail": "",
@@ -284,7 +612,7 @@
       "collections": "textures"
     },
     {
-      "name": "Wallpaper 7",
+      "name": "Wallpaper",
       "author": "Lerone Pieters",
       "url": "https://drive.google.com/uc?export=download&id=13-hVcDPGVf2pTNe-kfx7itjhu4RTbhNx",
       "thumbnail": "",
@@ -294,7 +622,7 @@
       "collections": "city"
     },
     {
-      "name": "Wallpaper 6",
+      "name": "Wallpaper",
       "author": "Pavel Brodsky",
       "url": "https://drive.google.com/uc?export=download&id=12ORiDaZOP85JAncOpqhRZPY8YtQ4_qOU",
       "thumbnail": "",
@@ -304,7 +632,7 @@
       "collections": "nature,landscapes"
     },
     {
-      "name": "Wallpaper 5",
+      "name": "Wallpaper",
       "author": "Travis Blessing",
       "url": "https://drive.google.com/uc?export=download&id=172kav2ZPLxiza2z5AK7HEQ_nh28VK88h",
       "thumbnail": "",
@@ -314,7 +642,7 @@
       "collections": "landscapes,nature"
     },
     {
-      "name": "Wallpaper 4",
+      "name": "Wallpaper",
       "author": "ZQ Lee",
       "url": "https://drive.google.com/uc?export=download&id=12oMajnPqtMQMER-JhigU0fCEHXHnPKMS",
       "thumbnail": "",
@@ -324,7 +652,7 @@
       "collections": "city,landscapes"
     },
     {
-      "name": "Wallpaper 3",
+      "name": "Wallpaper",
       "author": "OC Gonzalez",
       "url": "https://drive.google.com/uc?export=download&id=19s7CwzFGb41VlqcDIenxIPbTynt4n85Y",
       "thumbnail": "",
@@ -334,7 +662,7 @@
       "collections": "nature"
     },
     {
-      "name": "Wallpaper 2",
+      "name": "Wallpaper",
       "author": "Naail Hussain",
       "url": "https://drive.google.com/uc?export=download&id=1x43kPoxFINg4zKNqp14kYGrhm9iOIctn",
       "thumbnail": "",
@@ -344,14 +672,14 @@
       "collections": "nature"
     },
     {
-      "name": "Wallpaper 1",
+      "name": "Wallpaper",
       "author": "Elizabeth Gottwald",
       "url": "https://drive.google.com/uc?export=download&id=1KOLTSlV5D-r166wf6qIcpyN_SPPwegur",
       "thumbnail": "",
       "dimensions": "‪5184x3456‬",
       "size": 3649044,
       "copyright": "Unsplash",
-      "collections": "landscapes,birds"
+      "collections": "landscapes"
     }
   ]
 }
