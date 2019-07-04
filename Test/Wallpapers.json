@@ -1,80 +1,127 @@
 {
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png"
+    },
+    {
+      "name": "People",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png"
+    }
+  ],
   "Wallpapers": [
     {
-      "name": "Wallpaper",
-      "author": "Eberhard Grossgasteiger",
-      "url": "https://drive.google.com/uc?export=download&id=1ESchDTCEartQ0iKBSmmQSrmygtNjhgCn",
-      "thumbnail": "",
-      "dimensions": "2000x3000",
-      "size": 670720,
-      "copyright": "Pexels",
-      "collections": "city,night,exclusive"
+      "name": "ShotA",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "collections": "featured,landscapes,people"
     },
     {
-      "name": "Wallpaper",
-      "author": "Yiran Ding",
-      "url": "https://drive.google.com/uc?export=download&id=1kFux-pEFis2AFSesC5RmyuEmyBy4HASW",
-      "thumbnail": "",
-      "dimensions": "2832x4240",
-      "size": 2338324,
-      "copyright": "Unsplash",
-      "collections": "city,night,recent"
+      "name": "ShotB",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+      "dimensions": "3200x2560",
+      "collections": "people,city",
+      "downloadable": false
     },
     {
-      "name": "Wallpaper",
-      "author": "Jan Senderek",
-      "url": "https://drive.google.com/uc?export=download&id=1xR-_uJa65SBIhyp8KHjJfvCzCqFMqXYf",
-      "thumbnail": "",
-      "dimensions": "5840x3892",
-      "size": 3177185,
-      "copyright": "Unsplash",
-      "collections": "night,city"
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+      "name": "ShotC",
+      "dimensions": "1280x720",
+      "copyright": "Credits to its creator",
+      "collections": "landscapes,city"
     },
     {
-      "name": "Wallpaper",
-      "author": "Lucas França",
-      "url": "https://drive.google.com/uc?export=download&id=1TNUh972g7o8pB_abnnbikblWPhCLETW1",
-      "thumbnail": "",
-      "dimensions": "3456x5184",
-      "size": 2013265,
-      "copyright": "Pexels",
-      "collections": "city,night,exclusive"
+      "name": "Wallsplash 1",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes,people,city",
+      "featured": true
     },
     {
-      "name": "Wallpaper",
-      "author": "Aleksandar Pasaric",
-      "url": "https://drive.google.com/uc?export=download&id=1HCttqaS3bYeZ6Pllgje0tQmMJTyjgC0I",
-      "thumbnail": "",
-      "dimensions": "3000x2000",
-      "size": 1184890,
-      "copyright": "Pexels",
-      "collections": "city"
+      "name": "Wallsplash 2",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes,people,food"
     },
     {
-      "name": "Wallpaper",
-      "author": "Tom Barrett",
-      "url": "https://drive.google.com/uc?export=download&id=1W8r5MeRFawH8LjEEBBqjcOXus3l94fL6",
-      "thumbnail": "",
-      "dimensions": "3356x5034",
-      "size": 3334471,
-      "copyright": "Unsplash",
-      "collections": "city,recent"
+      "name": "Wallsplash 3",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,food,people"
     },
     {
-      "name": "Wallpaper",
-      "author": "Rawpixel",
-      "url": "https://drive.google.com/uc?export=download&id=12eLt01xWTtWAUbq82ZRwIGipukhvGltw",
-      "thumbnail": "",
-      "dimensions": "2928x1954",
-      "size": 415744,
-      "copyright": "Pexels",
-      "collections": "amoled"
+      "name": "Wallsplash 4",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "landscapes,people,city"
+    },
+    {
+      "name": "Wallsplash 5",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes"
+    },
+    {
+      "name": "Wallsplash 6",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,people"
+    },
+    {
+      "name": "Wallsplash 7",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "landscapes,people"
+    },
+    {
+      "name": "Wallsplash 8",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "food"
     },
     {
       "name": "Webp Image",
       "author": "unknown",
       "url": "https://www.gstatic.com/webp/gallery/4.webp",
-      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "dimensions": "3200x2560",
       "copyright": "Unknown",
       "collections": "landscapes"
