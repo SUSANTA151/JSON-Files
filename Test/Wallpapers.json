@@ -11,6 +11,78 @@
       "collections": "landscapes,nature"
     },
     {
+  "Wallpapers": [
+    {
+      "name": "Wallpaper",
+      "author": "Eberhard Grossgasteiger",
+      "url": "https://drive.google.com/uc?export=download&id=1ESchDTCEartQ0iKBSmmQSrmygtNjhgCn",
+      "thumbnail": "",
+      "dimensions": "2000x3000",
+      "size": 670720,
+      "copyright": "Pexels",
+      "collections": "city,night"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Yiran Ding",
+      "url": "https://drive.google.com/uc?export=download&id=1kFux-pEFis2AFSesC5RmyuEmyBy4HASW",
+      "thumbnail": "",
+      "dimensions": "2832x4240",
+      "size": 2338324,
+      "copyright": "Unsplash",
+      "collections": "city,night"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Jan Senderek",
+      "url": "https://drive.google.com/uc?export=download&id=1xR-_uJa65SBIhyp8KHjJfvCzCqFMqXYf",
+      "thumbnail": "",
+      "dimensions": "5840x3892",
+      "size": 3177185,
+      "copyright": "Unsplash",
+      "collections": "night,city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Lucas França",
+      "url": "https://drive.google.com/uc?export=download&id=1TNUh972g7o8pB_abnnbikblWPhCLETW1",
+      "thumbnail": "",
+      "dimensions": "3456x5184",
+      "size": 2013265,
+      "copyright": "Pexels",
+      "collections": "city,night"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Aleksandar Pasaric",
+      "url": "https://drive.google.com/uc?export=download&id=1HCttqaS3bYeZ6Pllgje0tQmMJTyjgC0I",
+      "thumbnail": "",
+      "dimensions": "3000x2000",
+      "size": 1184890,
+      "copyright": "Pexels",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Tom Barrett",
+      "url": "https://drive.google.com/uc?export=download&id=1W8r5MeRFawH8LjEEBBqjcOXus3l94fL6",
+      "thumbnail": "",
+      "dimensions": "3356x5034",
+      "size": 3334471,
+      "copyright": "Unsplash",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
+      "author": "Rawpixel",
+      "url": "https://drive.google.com/uc?export=download&id=12eLt01xWTtWAUbq82ZRwIGipukhvGltw",
+      "thumbnail": "",
+      "dimensions": "2928x1954",
+      "size": 415744,
+      "copyright": "Pexels",
+      "collections": "amoled"
+    },
+    {
       "name": "Webp Image",
       "author": "unknown",
       "url": "https://www.gstatic.com/webp/gallery/4.webp",
