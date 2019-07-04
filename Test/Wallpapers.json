@@ -2,18 +2,6 @@
   "Wallpapers": [
     {
       "name": "Wallpaper",
-      "author": "Elizabeth Gottwald",
-      "url": "https://drive.google.com/uc?export=download&id=1KOLTSlV5D-r166wf6qIcpyN_SPPwegur",
-      "thumbnail": "",
-      "dimensions": "‪5184x3456‬",
-      "size": 3649044,
-      "copyright": "Unsplash",
-      "collections": "landscapes,nature,amoled,recent"
-    },
-    {
-  "Wallpapers": [
-    {
-      "name": "Wallpaper",
       "author": "Eberhard Grossgasteiger",
       "url": "https://drive.google.com/uc?export=download&id=1ESchDTCEartQ0iKBSmmQSrmygtNjhgCn",
       "thumbnail": "",
@@ -50,7 +38,7 @@
       "dimensions": "3456x5184",
       "size": 2013265,
       "copyright": "Pexels",
-      "collections": "city,night"
+      "collections": "city,night,exclusive"
     },
     {
       "name": "Wallpaper",
@@ -70,7 +58,7 @@
       "dimensions": "3356x5034",
       "size": 3334471,
       "copyright": "Unsplash",
-      "collections": "city"
+      "collections": "city,recent"
     },
     {
       "name": "Wallpaper",
