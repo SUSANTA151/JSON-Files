@@ -2,6 +2,16 @@
   "Wallpapers": [
     {
       "name": "Wallpaper",
+      "author": "Cameron Casey",
+      "url": "https://drive.google.com/uc?export=download&id=1yY9c3xj2xg0N8cN3p2mEjysl-80I3jSM",
+      "thumbnail": "",
+      "dimensions": "3923x5884",
+      "size": 4204789,
+      "copyright": "Pexels",
+      "collections": "city"
+    },
+    {
+      "name": "Wallpaper",
       "author": "Eberhard Grossgasteiger",
       "url": "https://drive.google.com/uc?export=download&id=1ESchDTCEartQ0iKBSmmQSrmygtNjhgCn",
       "thumbnail": "",
@@ -282,16 +292,6 @@
     },
     {
       "name": "Wallpaper",
-      "author": "Cameron Casey",
-      "url": "https://drive.google.com/uc?export=download&id=1yY9c3xj2xg0N8cN3p2mEjysl-80I3jSM",
-      "thumbnail": "",
-      "dimensions": "3923x5884",
-      "size": 4204789,
-      "copyright": "Pexels",
-      "collections": "city"
-    },
-    {
-      "name": "Wallpaper",
       "author": "João Jesus",
       "url": "https://drive.google.com/uc?export=download&id=1Fzbu_ke1aDC7FaPwQ3FFGJM8VTVGiGwu",
       "thumbnail": "",
@@ -358,7 +358,7 @@
       "dimensions": "3904x2262",
       "size": 163840,
       "copyright": "Pixabay",
-      "collections": "minimal,landscapes"
+      "collections": "minimal"
     },
     {
       "name": "Wallpaper",
@@ -408,7 +408,7 @@
       "dimensions": "3850x2997",
       "size": 3219128,
       "copyright": "Pexels",
-      "collections": "textures,landscapes"
+      "collections": "art"
     },
     {
       "name": "Wallpaper",
@@ -418,7 +418,7 @@
       "dimensions": "4000x6000",
       "size": 5368709,
       "copyright": "Unsplash",
-      "collections": "textures"
+      "collections": "art"
     },
     {
       "name": "Wallpaper",
@@ -428,7 +428,7 @@
       "dimensions": "4000x6000",
       "size": 2915041,
       "copyright": "Unsplash",
-      "collections": "textures"
+      "collections": "art"
     },
     {
       "name": "Wallpaper",
