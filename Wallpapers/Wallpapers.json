@@ -8,7 +8,7 @@
       "dimensions": "2000x3000",
       "size": 670720,
       "copyright": "Pexels",
-      "collections": "city,night"
+      "collections": "city"
     },
     {
       "name": "Wallpaper",
@@ -18,7 +18,7 @@
       "dimensions": "2832x4240",
       "size": 2338324,
       "copyright": "Unsplash",
-      "collections": "city,night"
+      "collections": "city"
     },
     {
       "name": "Wallpaper",
@@ -28,7 +28,7 @@
       "dimensions": "5840x3892",
       "size": 3177185,
       "copyright": "Unsplash",
-      "collections": "night,city"
+      "collections": "city"
     },
     {
       "name": "Wallpaper",
@@ -38,7 +38,7 @@
       "dimensions": "3456x5184",
       "size": 2013265,
       "copyright": "Pexels",
-      "collections": "city,night"
+      "collections": "city"
     },
     {
       "name": "Wallpaper",
@@ -208,7 +208,7 @@
       "dimensions": "3449x5173",
       "size": 2684354,
       "copyright": "Pexels",
-      "collections": "night"
+      "collections": "recent"
     },
     {
       "name": "Wallpaper",
@@ -458,7 +458,7 @@
       "dimensions": "4000x2667",
       "size": 566272,
       "copyright": "Pexels",
-      "collections": "landscapes,nature,night"
+      "collections": "landscapes,nature"
     },
     {
       "name": "Wallpaper",
