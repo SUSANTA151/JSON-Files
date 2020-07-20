@@ -105,35 +105,5 @@
       "dimensions": "3200x2560",
       "copyright": "Unknown",
       "collections": "landscapes"
-    },
-    {
-      "name": "Galaxy A80",
-      "author": "Samsung",
-      "url": "https://drive.google.com/uc?export=download&id=1mVR2LJEDEErwYtuwNX9fk5DoVpT9GHkz",
-      "thumbnail": "https://drive.google.com/uc?export=download&id=1C8d39x5RjdVjSwlgIHzoqF60ZY0OOhev",
-      "dimensions": "1080x2400",
-      "size": 2076180,
-      "copyright": "Samsung",
-      "collections": "Samsung"
-    },
-    {
-      "name": "Galaxy A80",
-      "author": "Samsung",
-      "url": "https://drive.google.com/uc?export=download&id=1bj3IlnHZH5bLFUv0TW0lwHnwptjBimRo",
-      "thumbnail": "https://drive.google.com/uc?export=download&id=1JohdIpY-bozWP5X69z2m0ezAOlBVxnEs",
-      "dimensions": "1080x2400",
-      "size": 6364856,
-      "copyright": "Samsung",
-      "collections": "Samsung"
-    },
-    {
-      "name": "Galaxy A80",
-      "author": "Samsung",
-      "url": "https://drive.google.com/uc?export=download&id=1ZztBoG3rFWz6F-h--dsEFQJKXrbffdFt",
-      "thumbnail": "https://drive.google.com/uc?export=download&id=1hgfNuehZP5RbyuPoubE-IqmqYa0VB6r-",
-      "dimensions": "1080x2400",
-      "size": 5295308,
-      "copyright": "Samsung",
-      "collections": "Samsung"
     }
 ]
