@@ -1,4 +1,5 @@
-[
+{
+	"Wallpapers": [
 	{
 		"name": "Wallpaper1",
 		"url": "https://drive.google.com/uc?export=download&id=198fi9h-SKilA3YU99TvqcgwQlXNqN3u4",
@@ -48,6 +49,7 @@
 		"size": 707584,
 		"dimensions": "4000 x 6000 px",
 		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper6",
@@ -57,7 +59,8 @@
 		"downloadable": true,
 		"size": 2097152,
 		"dimensions": "4000 x 6000 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper7",
@@ -67,7 +70,8 @@
 		"downloadable": true,
 		"size": 2097152,
 		"dimensions": "4000 x 5000 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper8",
@@ -77,7 +81,8 @@
 		"downloadable": true,
 		"size": 508928,
 		"dimensions": "1840 x 2925 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper9",
@@ -87,7 +92,8 @@
 		"downloadable": true,
 		"size": 818176,
 		"dimensions": "2096 x 3203 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper10",
@@ -97,7 +103,8 @@
 		"downloadable": true,
 		"size": 2097000,
 		"dimensions": "3395 x 5092 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper11",
@@ -107,7 +114,8 @@
 		"downloadable": true,
 		"size": 2097152,
 		"dimensions": "3024 x 4032 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	},
 		{
 		"name": "Wallpaper12",
@@ -117,6 +125,8 @@
 		"downloadable": true,
 		"size": 635904,
 		"dimensions": "2545 x 3264 px",
-		"copyright": "Unsplash"	
+		"copyright": "Unsplash"
+			
 	}
-]
+     ]
+}
