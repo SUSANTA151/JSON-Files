@@ -1,5 +1,4 @@
-{
-  "Wallpapers": [
+[
     {
       "name": "Wallpaper",
       "author": "Cameron Casey",
@@ -670,5 +669,4 @@
       "copyright": "Pexels",
       "collections": "landscapes,nature"
     }
-  ]
-}
+]
